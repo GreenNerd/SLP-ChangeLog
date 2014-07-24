@@ -1,6 +1,16 @@
 SLP-ChangeLog
 =============
 
+### 2014-07-24
+------
+#### New Features
+* 相关记录推送
+
+#### Resolved Issues
+* 电话推送 SSL 问题
+* 删除失败的推送
+
+
 ### 2014-07-20
 ------
 #### New Features
