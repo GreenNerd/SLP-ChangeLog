@@ -1,6 +1,16 @@
 SLP-ChangeLog
 =============
 
+### 2014-07-25
+------
+#### New Features
+* 新的编辑器
+* 下载组织编号（导入记录相关）
+
+#### Resolved Issues
+* 微信推送时链接`pushable.id`问题
+
+
 ### 2014-07-24
 ------
 #### New Features
