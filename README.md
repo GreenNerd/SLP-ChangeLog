@@ -1,6 +1,15 @@
 SLP-ChangeLog
 =============
 
+### 2014-07-27
+------
+#### New Features
+* 新的时间选择器（推送）
+
+#### Resolved Issues
+* 无
+
+
 ### 2014-07-25
 ------
 #### New Features
