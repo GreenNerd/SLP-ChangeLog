@@ -1,6 +1,16 @@
 SLP-ChangeLog
 =============
 
+### 2014-07-31
+------
+#### New Features
+* 消息可以添加附件
+* 文章可以添加附件
+
+#### Resolved Issues
+* 新的编辑器的一些 BUG
+
+
 ### 2014-07-27
 ------
 #### New Features
