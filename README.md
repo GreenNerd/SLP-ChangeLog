@@ -1,6 +1,18 @@
 SLP-ChangeLog
 =============
 
+### 2014-08-05
+
+#### New Features
+* 表单可以添加附件
+* 表单的描述可以为富文本
+
+#### Resolved Issues
+* 无
+
+------
+
+
 ### 2014-08-04
 
 #### New Features
