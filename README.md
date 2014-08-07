@@ -1,6 +1,17 @@
 SLP-ChangeLog
 =============
 
+### 2014-08-07
+
+#### New Features
+* 表单填写页面渲染附件
+
+#### Resolved Issues
+* 无
+
+------
+
+
 ### 2014-08-05
 
 #### New Features
