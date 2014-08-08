@@ -1,6 +1,19 @@
 SLP-ChangeLog
 =============
 
+### 2014-08-08
+
+#### New Features
+* 组织删除功能
+* 消息和表单删除功能
+* 语音服务器改为`Nexmo`
+
+#### Resolved Issues
+* 文件上传字段删除附件的 BUG
+
+------
+
+
 ### 2014-08-07
 
 #### New Features
