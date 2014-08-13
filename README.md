@@ -1,6 +1,17 @@
 SLP-ChangeLog
 =============
 
+### 2014-08-13(v0.7.13)
+
+#### New Features
+* 增加对 IE 的支持
+
+#### Resolved Issues
+* 修复`wechat端`的`overflow`问题
+
+------
+
+
 ### 2014-08-13(v0.7.12)
 
 #### New Features
