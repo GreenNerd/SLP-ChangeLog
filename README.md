@@ -1,6 +1,16 @@
 SLP-ChangeLog
 =============
 
+### 2014-08-28(v0.8.2)
+
+#### New Features
+* 暂无
+
+#### Resolved Issues
+* 解决新建用户报错信息问题
+
+------
+
 ### 2014-08-28(v0.8.1)
 
 #### New Features
