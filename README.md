@@ -1,6 +1,17 @@
 SLP-ChangeLog
 =============
 
+### 2014-09-16(v0.8.7)
+
+#### New Features
+* 进入公众帐号立即提醒未处理的消息
+
+#### Resolved Issues
+* 修复表单导出在 Windows 下的样式
+
+------
+
+
 ### 2014-09-10(v0.8.6)
 
 #### New Features
