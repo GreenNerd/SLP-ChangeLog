@@ -1,6 +1,16 @@
 SLP-ChangeLog
 =============
 
+### 2014-09-23(v0.9.0)
+
+#### New Features
+* 新的 CMS
+
+#### Resolved Issues
+* 修复 CMS 相关的样式
+
+------
+
 ### 2014-09-16(v0.8.7)
 
 #### New Features
