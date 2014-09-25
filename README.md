@@ -1,6 +1,17 @@
 SLP-ChangeLog
 =============
 
+### 2014-09-24(v0.9.1)
+
+#### New Features
+* CMS 渲染添加附件
+
+#### Resolved Issues
+* 暂无
+
+------
+
+
 ### 2014-09-23(v0.9.0)
 
 #### New Features
