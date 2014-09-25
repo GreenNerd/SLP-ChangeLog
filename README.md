@@ -1,6 +1,19 @@
 SLP-ChangeLog
 =============
 
+### 2014-09-24(v0.9.2)
+
+#### New Features
+* 同步菜单到微信服务器
+* 为每个 namespace 增加 LOGO
+* CMS 新的菜单样式
+
+#### Resolved Issues
+* 暂无
+
+------
+
+
 ### 2014-09-24(v0.9.1)
 
 #### New Features
