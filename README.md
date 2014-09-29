@@ -1,6 +1,19 @@
 SLP-ChangeLog
 =============
 
+### 2014-09-29(v0.9.3)
+
+#### New Features
+* 为 category 添加 icon
+* 签到验证可以为某个范围的 IP
+
+#### Resolved Issues
+* 修复绑定样式
+* 修复菜单的一些 BUG
+
+------
+
+
 ### 2014-09-24(v0.9.2)
 
 #### New Features
