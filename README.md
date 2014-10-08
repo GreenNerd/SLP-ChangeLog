@@ -1,6 +1,16 @@
 SLP-ChangeLog
 =============
 
+### 2014-10-08(v1.0.1)
+
+#### New Features
+* 导出绑定情况
+
+#### Resolved Issues
+* 修复表单页面的样式问题
+
+------
+
 ### 2014-09-30(v1.0.0)
 
 #### New Features
