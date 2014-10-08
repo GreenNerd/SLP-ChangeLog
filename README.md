@@ -1,6 +1,16 @@
 SLP-ChangeLog
 =============
 
+### 2014-09-30(v1.0.0)
+
+#### New Features
+* 允许注册
+
+#### Resolved Issues
+* 暂无
+
+------
+
 ### 2014-09-29(v0.9.3)
 
 #### New Features
