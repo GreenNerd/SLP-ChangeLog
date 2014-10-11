@@ -1,6 +1,16 @@
 SLP-ChangeLog
 =============
 
+### 2014-10-11(v1.0.2)
+
+#### New Features
+* 搜索组织成员
+
+#### Resolved Issues
+* 修复表单`其他选项`样式
+
+------
+
 ### 2014-10-08(v1.0.1)
 
 #### New Features
