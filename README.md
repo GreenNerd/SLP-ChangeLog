@@ -1,6 +1,16 @@
 SLP-ChangeLog
 =============
 
+### 2014-10-13(v1.0.3)
+
+#### New Features
+* 搜索组织成员分类
+
+#### Resolved Issues
+* 修复`fast-click`
+
+------
+
 ### 2014-10-11(v1.0.2)
 
 #### New Features
