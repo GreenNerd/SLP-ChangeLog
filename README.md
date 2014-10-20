@@ -1,6 +1,17 @@
 SLP-ChangeLog
 =============
 
+### 2014-10-20(v1.0.4)
+
+#### New Features
+* 搜索不在任何组织的成员
+* 导入时自动关联和更新已存在的用户
+
+#### Resolved Issues
+* 重新设计`user`的`model`（backbone）
+
+------
+
 ### 2014-10-13(v1.0.3)
 
 #### New Features
