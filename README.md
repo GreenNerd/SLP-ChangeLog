@@ -1,6 +1,16 @@
 SLP-ChangeLog
 =============
 
+### 2014-10-27(v1.0.6)
+
+#### New Features
+* 添加客服功能支持
+
+#### Resolved Issues
+* 暂无
+
+------
+
 ### 2014-10-26(v1.0.5)
 
 #### New Features
