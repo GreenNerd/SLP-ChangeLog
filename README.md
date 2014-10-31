@@ -1,6 +1,17 @@
 SLP-ChangeLog
 =============
 
+### 2014-10-31(v1.0.7)
+
+#### New Features
+* 新的flash alert（只调整了结构）
+
+#### Resolved Issues
+* 组织成员管理（members/edit）页面的`js`错误
+* 微信消息，表单，文章等的图片预览的Bug
+
+------
+
 ### 2014-10-27(v1.0.6)
 
 #### New Features
