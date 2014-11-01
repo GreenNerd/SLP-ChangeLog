@@ -1,6 +1,17 @@
 SLP-ChangeLog
 =============
 
+### 2014-11-01(v1.0.8)
+
+#### New Features
+* 升级`sass`版本
+* 添加`newrelic`
+
+#### Resolved Issues
+* 暂无
+
+------
+
 ### 2014-10-31(v1.0.7)
 
 #### New Features
