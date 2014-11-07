@@ -1,6 +1,17 @@
 SLP-ChangeLog
 =============
 
+### 2014-11-07(v1.0.9)
+
+#### New Features
+* 修改消息标签
+
+#### Resolved Issues
+* 修复`QR` size
+* 修复微信菜单样式
+
+------
+
 ### 2014-11-01(v1.0.8)
 
 #### New Features
