@@ -1,6 +1,16 @@
 SLP-ChangeLog
 =============
 
+### 2014-11-17(v1.0.11)
+
+#### New Features
+* 文章分类排序功能
+
+#### Resolved Issues
+* 暂无
+
+------
+
 ### 2014-11-10(v1.0.10)
 
 #### New Features
