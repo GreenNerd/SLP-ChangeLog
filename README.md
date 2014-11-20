@@ -1,6 +1,17 @@
 SLP-ChangeLog
 =============
 
+### 2014-11-20(v1.0.12)
+
+#### New Features
+* 暂无
+
+#### Resolved Issues
+* 修复其他项的触发事件（导致“中文翻译为拼音”，其实是没有检测到`keyup`）
+* 移除 mobile 端的`turbolinks`（导致 Android 图片预览等问题）
+
+------
+
 ### 2014-11-17(v1.0.11)
 
 #### New Features
