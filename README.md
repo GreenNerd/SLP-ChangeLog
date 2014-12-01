@@ -1,6 +1,16 @@
 SLP-ChangeLog
 =============
 
+### 2014-12-01(v1.0.14)
+
+#### New Features
+* 提示用户填写电话号码
+
+#### Resolved Issues
+* 暂无
+
+------
+
 ### 2014-11-26(v1.0.13)
 
 #### New Features
