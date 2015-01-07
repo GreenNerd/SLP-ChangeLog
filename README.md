@@ -1,6 +1,16 @@
 SLP-ChangeLog
 =============
 
+### 2015-01-07(v1.1.4)
+
+#### New Features
+* 文章可以插入视频
+
+#### Resolved Issues
+* 暂无
+
+------
+
 ### 2014-12-25(v1.1.2)
 
 #### New Features
