@@ -1,6 +1,20 @@
 SLP-ChangeLog
 =============
 
+### 2015-01-28(v1.2.0)
+
+#### New Features
+* Landing page
+* 新的微信推送模板
+* 升级到 `Rails 4.2.0`
+* 查看`已阅用户`
+
+#### Resolved Issues
+* 新的 `backbone modal`
+* 表单填写相关 `bug`
+
+------
+
 ### 2015-01-07(v1.1.4)
 
 #### New Features
