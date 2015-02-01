@@ -1,6 +1,16 @@
 SLP-ChangeLog
 =============
 
+### 2015-02-01(v1.2.1)
+
+#### New Features
+* 升级 `nexmo-voice`
+
+#### Resolved Issues
+* 暂无
+
+------
+
 ### 2015-01-28(v1.2.0)
 
 #### New Features
