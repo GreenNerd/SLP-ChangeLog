@@ -1,6 +1,17 @@
 SLP-ChangeLog
 =============
 
+### 2015-02-12(v1.3.0)
+
+#### New Features
+* 细分管理权限
+* 其他（参见`commit`）
+
+#### Resolved Issues
+* 暂无
+
+------
+
 ### 2015-02-01(v1.2.1)
 
 #### New Features
