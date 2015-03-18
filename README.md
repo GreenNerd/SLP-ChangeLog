@@ -1,6 +1,16 @@
 SLP-ChangeLog
 =============
 
+### 2015-03-18(v1.3.3)
+
+#### New Features
+* 通讯录 1.0.0 版本（http://hereistheskylark.com/apps/contacts）
+
+#### Resolved Issues
+* 暂无
+
+------
+
 ### 2015-03-17(v1.3.2)
 
 #### New Features
