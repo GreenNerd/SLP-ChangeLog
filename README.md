@@ -1,6 +1,16 @@
 SLP-ChangeLog
 =============
 
+### 2015-03-24(v1.3.6)
+
+#### New Features
+* 暂无
+
+#### Resolved Issues
+* 修复表单 `keyup` 事件（该问题可能会导致校验代码出问题）
+
+------
+
 ### 2015-03-18(v1.3.3)
 
 #### New Features
