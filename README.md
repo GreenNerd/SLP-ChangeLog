@@ -1,6 +1,16 @@
 SLP-ChangeLog
 =============
 
+### 2015-03-24(v1.3.7)
+
+#### New Features
+* 登陆的二维码将在 5 分钟后失效
+
+#### Resolved Issues
+* 暂无
+
+------
+
 ### 2015-03-24(v1.3.6)
 
 #### New Features
