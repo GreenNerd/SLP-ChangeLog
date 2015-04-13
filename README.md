@@ -1,6 +1,16 @@
 SLP-ChangeLog
 =============
 
+### 2015-04-13(v1.4.1)
+
+#### New Features
+* 给 `web` 端的文章添加 `mobile` 端一样的样式
+
+#### Resolved Issues
+* 修复二维码登陆的 `js` 问题（未登陆时 `js` 都会报错)
+
+------
+
 ### 2015-04-10(v1.4.0)
 
 #### New Features
