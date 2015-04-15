@@ -1,6 +1,17 @@
 SLP-ChangeLog
 =============
 
+### 2015-04-15(v1.4.3)
+
+#### New Features
+* 添加了top_bar来显示page_title和菜单的toggler
+
+#### Resolved Issues
+* 修改了phone_require的渲染位置
+* 修改了部分样式
+
+------
+
 ### 2015-04-13(v1.4.1)
 
 #### New Features
