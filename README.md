@@ -1,6 +1,17 @@
 SLP-ChangeLog
 =============
 
+### 2015-04-23(v1.4.6)
+
+#### New Features
+* 取消绑定用户
+* 异步导入记录
+
+#### Resolved Issues
+* 在生成环境下忽略 `exception_notification`
+
+------
+
 ### 2015-04-22(v1.4.5)
 
 #### New Features
