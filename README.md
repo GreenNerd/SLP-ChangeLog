@@ -1,6 +1,17 @@
 SLP-ChangeLog
 =============
 
+### 2015-04-24(v1.4.7)
+
+#### New Features
+* 暂无
+
+#### Resolved Issues
+* 修复菜单
+* 修复长组织名字的 bug
+
+------
+
 ### 2015-04-23(v1.4.6)
 
 #### New Features
