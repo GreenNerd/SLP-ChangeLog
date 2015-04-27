@@ -1,6 +1,16 @@
 SLP-ChangeLog
 =============
 
+### 2015-04-27(v1.4.8)
+
+#### New Features
+* 测试 JSON 缓存
+
+#### Resolved Issues
+* 暂无
+
+------
+
 ### 2015-04-24(v1.4.7)
 
 #### New Features
