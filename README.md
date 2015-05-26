@@ -1,6 +1,17 @@
 SLP-ChangeLog
 =============
 
+### 2015-05-26(v1.5.4)
+
+#### New Features
+* 优化滑动菜单
+
+#### Resolved Issues
+* 修复一些样式
+* 修复 wx jssdk 问题
+
+------
+
 ### 2015-05-20(v1.5.3)
 
 #### New Features
