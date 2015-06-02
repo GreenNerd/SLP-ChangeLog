@@ -19,6 +19,9 @@
 - ancestors (`associations`)
 - children (`associations`)
 - pages (`associations`)
+- hidden(`boolean`)
+- external_link(`string`)
+- external_link?(`boolean`)
 
 ### Page
 - title (`string`)
