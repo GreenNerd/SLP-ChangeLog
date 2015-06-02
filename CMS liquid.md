@@ -27,6 +27,7 @@
 - title (`string`)
 - description (`string`)
 - html_body (`text`)
+- hidden(`boolean`)
 - external_link (`string`)
 - external_link? (`boolean`)
 - created_at (`datetime`)
