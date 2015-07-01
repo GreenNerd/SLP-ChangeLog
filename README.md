@@ -1,6 +1,16 @@
 SLP-ChangeLog
 =============
 
+### 2015-07-01(v1.6.6)
+
+#### New Features
+* 表单添加报表功能（限单选和多选）
+
+#### Resolved Issues
+* 修复 layout 缺失时不能渲染的问题
+
+------
+
 ### 2015-06-30(v1.6.5)
 
 #### New Features
