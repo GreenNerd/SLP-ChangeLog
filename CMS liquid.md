@@ -44,12 +44,23 @@
 - mime_type (`string`)
 - url (`string`)
 
+### CurrentUser
+- name (`string`)
+- nickname (`string`)
+- phone (`string`)
+- identifier (`string`)
+- headmigurl (`string`)
+
 ## Request
 
-1. `GET /categories`
-    > `skylark_cms.home`
-1. `/categories/:category_id`
-    > `skylark_cms.category`
+1. 首页 `GET /categories`
+    - `skylark_cms.home`
+    - `skylark_cms.current_user`
 
-1. `GET /categories/:category_id/pages/:page_id`
-    > `skylark_cms.page`
+1. 分类页面 `/categories/:category_id`
+    - `skylark_cms.category`
+    - `skylark_cms.current_user`
+
+1. 文章页面 `GET /categories/:category_id/pages/:page_id`
+    - `skylark_cms.page`
+    - `skylark_cms.current_user`
