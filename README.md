@@ -1,6 +1,19 @@
 SLP-ChangeLog
 =============
 
+### 2015-07-23(v1.6.11)
+
+#### New Features
+* 文章和分类可以自定义模板
+* 新增 `403`（没有权限页面模板） 和 `404`（没有找到页面模板） 页面，如果留空则用系统自带的，变量参见 [变量](https://github.com/GreenNerd/SLP-ChangeLog/blob/master/CMS%20liquid.md#currentuser)
+* 为文章添加权限
+
+#### Resolved Issues
+* 修复标签消息/表单页面的样式
+* 修复添加下级组织的样式
+
+------
+
 ### 2015-07-20(v1.6.10)
 
 #### New Features
