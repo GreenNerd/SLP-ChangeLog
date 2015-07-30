@@ -1,6 +1,18 @@
 SLP-ChangeLog
 =============
 
+### 2015-07-30(v1.6.14)
+
+#### New Features
+* 缓存了 `form` 和 `post`
+* 添加了 `章节` 字段
+* 添加了 `整数` 字段
+
+#### Resolved Issues
+* 修复报表页面的 NaN 错误
+
+------
+
 ### 2015-07-23(v1.6.11)
 
 #### New Features
