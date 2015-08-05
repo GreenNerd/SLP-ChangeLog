@@ -1,6 +1,16 @@
 SLP-ChangeLog
 =============
 
+### 2015-08-05(v1.6.16)
+
+#### New Features
+* 暂无
+
+#### Resolved Issues
+* 修复关闭 `form` 的 bug
+
+------
+
 ### 2015-07-30(v1.6.14)
 
 #### New Features
