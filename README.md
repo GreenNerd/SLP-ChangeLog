@@ -1,6 +1,17 @@
 SLP-ChangeLog
 =============
 
+### 2015-08-10(v1.6.17)
+
+#### New Features
+* 为文章添加分页（变量参考 [分页](https://github.com/GreenNerd/SLP-ChangeLog/blob/master/CMS%20liquid.md#paginator "分页")）
+* 添加`用户只能看见自己有权限查看的分类和文章`的功能（此功能没有考虑不在当前空间的用户）
+
+#### Resolved Issues
+* 修复异步发送回执时，推送包过早创建并执行的 bug
+
+------
+
 ### 2015-08-06(v1.6.16)
 
 #### New Features
