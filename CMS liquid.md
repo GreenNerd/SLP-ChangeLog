@@ -55,7 +55,7 @@
 - per_page(`integer`)*每页的数量*
 - current_page(`integer`)*当前的页码数*
 - total_pages(`integer`)*总共的页码数*
-- preview_page_link(`string`)*上一页的地址*
+- previous_page_link(`string`)*上一页的地址*
 - current_page_link(`string`)*当前页的地址*
 - next_page_link(`string`)*下一页的地址*
 
