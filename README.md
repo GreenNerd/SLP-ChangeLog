@@ -1,6 +1,16 @@
 SLP-ChangeLog
 =============
 
+### 2015-08-24(v1.7.1)
+
+#### New Features
+* 申请加入组织
+
+#### Resolved Issues
+* [hot] 空间管理员对组织有所有的权限
+
+------
+
 ### 2015-08-11(v1.7.0)
 
 #### New Features
