@@ -1,6 +1,16 @@
 SLP-ChangeLog
 =============
 
+### 2015-09-14(v1.7.3)
+
+#### New Features
+* 添加`转发微信请求地址`
+
+#### Resolved Issues
+* 暂无
+
+------
+
 ### 2015-09-06(v1.7.2)
 
 #### New Features
