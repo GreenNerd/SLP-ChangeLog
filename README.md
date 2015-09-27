@@ -1,6 +1,16 @@
 SLP-ChangeLog
 =============
 
+### 2015-09-27(v1.7.6)
+
+#### New Features
+* 模板消息新增`循环表单`
+
+#### Resolved Issues
+* 暂无
+
+------
+
 ### 2015-09-25(v1.7.5)
 
 #### New Features
