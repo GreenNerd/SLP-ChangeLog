@@ -1,6 +1,18 @@
 SLP-ChangeLog
 =============
 
+### 2015-11-18(v1.8.3)
+
+#### New Features
+* 暂无
+
+#### Resolved Issues
+* Fix removing association when organizations are destroyed
+* Fix vars overflow of the template_post
+* Fix cascaded_select endpoint for the normal user
+
+------
+
 ### 2015-11-11(v1.8.3.alpha)
 
 #### New Features
