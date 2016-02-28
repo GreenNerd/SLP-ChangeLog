@@ -1,6 +1,16 @@
 SLP-ChangeLog
 =============
 
+### 2016-02-28(v1.8.9.4)
+
+#### New Features
+* 添加`定位`字段
+
+#### Resolved Issues
+* 暂无
+
+------
+
 ### 2016-02-23(v1.8.9.3)
 
 #### New Features
