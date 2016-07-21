@@ -4,7 +4,7 @@
 
 ### Home
 - name (`string`)
-- categories (`associations`)
+- ~~categories (`associations`)~~
 - root_categories (`associations`)
 
 ### Category
