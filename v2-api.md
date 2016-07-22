@@ -61,10 +61,23 @@
 ### 获取普通通知集合
 > GET /posts
 
+参数：
+- status，可选值（drafted, published, closed）分别表示：草稿，发布，关闭。不传表示全部
+
+
 ### 获取单个普通通知
 > GET /posts/:id
 
 ### 获取某个普通通知的评论集合
+**评论**
+| 字段      |    类型 | 解释  |
+| :-------- | :--------| :--: |
+| body  | string |  内容   |
+| created_at  | string |  创建时间   |
+| user  | hash |  评论者   |
+| reply  | hash |  回复   |
+
+
 > GET /posts/:id/comments
 
 ### 获取某个普通通知的接受者集合
@@ -139,6 +152,9 @@
 ### 获取表单集合
 > GET /forms
 
+参数：
+- status，可选值（drafted, published）分别表示：草稿，发布。不传表示全部
+
 ### 获取单个表单
 > GET /forms/:id
 
@@ -149,6 +165,29 @@
 > GET /forms/:id/receipts
 
 ### 获取某个表单的填写记录集合
+**填写记录**
+| 字段      |    类型 | 解释  |
+| :-------- | :--------| :--: |
+| created_at  | string |  创建时间   |
+| entries  | array |  每个字段对应的填写值   |
+| user  | hash |  填写者，没有则是匿名填写   |
+| involved_users  | array |  用于模板消息，由管理员填写   |
+| involved_organizations  | array |  用于模板消息，由管理员填写   |
+
+**entries 信息**
+| 字段      |    类型 | 解释  |
+| :-------- | :--------| :--: |
+| created_at  | string |  创建时间   |
+| value  | string |  填写的对应字段的值   |
+| field_id  | integer |  对应字段id   |
+| option_id  | integer |  用于单多选，对应选项id   |
+| choice_id  | integer |  用于级联选择   |
+| latitude  | float |  用于定位字段，定位到的经度   |
+| longtitude  | float |  用于定位字段，定位到的纬度   |
+| group_id  | integer |  用于明细字段，分组   |
+| attachment  | hash |  用于文件上传字段，上传文件的相关信息   |
+
+
 > GET /forms/:id/responses
 
 ## 模板通知
@@ -165,6 +204,9 @@
 
 ### 获取模板通知集合
 > GET /template_posts
+
+参数：
+- status，可选值（drafted, published）分别表示：草稿，发布。不传表示全部
 
 ### 获取单个模板通知
 > GET /template_posts/:id
