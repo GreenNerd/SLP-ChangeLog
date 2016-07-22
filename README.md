@@ -1,6 +1,8 @@
 SLP-ChangeLog
 =============
 
+后续更新在 tower https://tower.im/projects/b545538583d44d97ac9432473858917e/
+
 ### 2016-03-17(v1.9.0.4)
 
 #### New Features
