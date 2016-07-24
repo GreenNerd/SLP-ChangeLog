@@ -19,12 +19,50 @@
 | phone  | string |  电话号码   |
 | identifier  | string |  识别码   |
 | headimgurl  | string |  头像url   |
+| tags  | array |  标签集合   |
+| custom_values  | array |  自定义属性值集合   |
+
+**custom_values***
+
+| 字段      |    类型 | 解释  |
+| :-------- | :--------| :--: |
+| value  | string |  数据库里存的值   |
+| custom_attribute_id  | integer |  对应自定义属性的id   |
+| text_value  | string |  向用户显示的值   |
+
 
 ### 获取用户集合
 > GET /users
 
 ### 获取单个用户
 > GET /users/:id
+
+## 自定义属性
+| 字段      |    类型 | 解释  |
+| :-------- | :--------| :--: |
+| name  | string |  名称   |
+| type  | string |  类型，下面有解释   |
+| register_writed  | boolean |  是否注册时需要填写   |
+| presence  | boolean |  是否必填   |
+| custom_options  | array | 用户单、多选，表示选项集合   |
+
+**custom_options**
+
+| 字段      |    类型 | 解释  |
+| :-------- | :--------| :--: |
+| value  | string |  选项值   |
+
+**自定义属性 type **
+
+|    type 类型 | 解释  |
+| :--------| :--: |
+| Profile::CustomAttribute::RadioButton | 单选 |
+| Profile::CustomAttribute::CheckBox | 多选 |
+| Profile::CustomAttribute::TextField | 文本 |
+| Profile::CustomAttribute::TextArea | 段落 |
+| Profile::CustomAttribute::Time | 时间 |
+| Profile::CustomAttribute::Date | 日期 |
+| Profile::CustomAttribute::Address | 地址选择 |
 
 ## 组织
 | 字段      |    类型 | 解释  |
