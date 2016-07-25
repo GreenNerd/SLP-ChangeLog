@@ -1,3 +1,6 @@
+## Base URI
+`http://skylarkly.com`
+
 ## 认证
 2种方式：
 - 传private_token参数
