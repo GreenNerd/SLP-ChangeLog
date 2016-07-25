@@ -6,7 +6,9 @@
 ## 认证
 2种方式：
 - 传private_token参数
+  - `GET http://skylarkly.com/api/v2/users?private_token=QVy1PB7sTxfy4pqfZM1U`
 - 传PRIVATE-TOKEN http 头
+  - `curl --header "PRIVATE-TOKEN: QVy1PB7sTxfy4pqfZM1U" "http://skylarkly.com/api/v2/users"`
 
 ## 分页
 所有返回集合的都有分页
