@@ -16,6 +16,10 @@
 - page 页数
 - per_page 每页个数，默认25
 
+Response Headers：
+- `X-SLP-Current-Page`: 当前页码数
+- `X-SLP-Total-Pages`: 总页码数
+
 ## API
 ## 用户
 | 字段      |    类型 | 解释  |
