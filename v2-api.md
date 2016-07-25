@@ -1,5 +1,7 @@
 ## Base URI
-`http://skylarkly.com`
+当前版本： v2
+
+`http://skylarkly.com/api/v2`
 
 ## 认证
 2种方式：
