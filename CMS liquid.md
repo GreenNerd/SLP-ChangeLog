@@ -39,6 +39,7 @@
 - cover (`string`)
 - cover? (`boolean`)
 - attachments (`associations`)
+- read_count (`integer`)
 
 ### Attachment
 - name (`string`)
@@ -52,6 +53,7 @@
 - phone (`string`)
 - identifier (`string`)
 - headmigurl (`string`)
+- openid (`string`)
 
 ### Paginator
 - per_page(`integer`)*每页的数量*
