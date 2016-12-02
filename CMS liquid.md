@@ -23,6 +23,7 @@
 - hidden(`boolean`)
 - external_link(`string`)
 - external_link?(`boolean`)
+- cms_variables (`object`)
 
 ### Page
 - title (`string`)
@@ -40,6 +41,7 @@
 - cover? (`boolean`)
 - attachments (`associations`)
 - read_count (`integer`)
+- cms_variables (`object`)
 
 ### Attachment
 - name (`string`)
@@ -77,3 +79,16 @@
 1. 文章页面 `GET /categories/:category_id/pages/:page_id`
     - `skylark_cms.page`
     - `skylark_cms.current_user`
+    - `skylark_cms.page.cms_variables.foo` （`"bar"`，cms_variables 设置： `{ "foo": "bar" }`）
+    
+    
+# 消息的异常
+
+## 404/403
+- current_user
+
+## 变量的空间
+- skylark_message_exception
+
+### 例子：
+- `skylark_message_exception.current_user.name`
