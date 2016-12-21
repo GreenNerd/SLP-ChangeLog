@@ -65,6 +65,11 @@
 - current_page_link(`string`)*当前页的地址*
 - next_page_link(`string`)*下一页的地址*
 
+### Search
+- categories(`category`)
+- pages(`page`)
+- query
+
 ## Request
 
 1. 首页 `GET /categories`
@@ -80,8 +85,14 @@
     - `skylark_cms.page`
     - `skylark_cms.current_user`
     - `skylark_cms.page.cms_variables.foo` （`"bar"`，cms_variables 设置： `{ "foo": "bar" }`）
-    
-    
+
+1. 搜索 `GET /categories/:category_id/search`
+    - params:
+        - query
+    - return
+        - `skylark_cms.categories'
+        - `skylark_cms.pages'
+        - `skylark_cms.query'
 # 消息的异常
 
 ## 404/403
