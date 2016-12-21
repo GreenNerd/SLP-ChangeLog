@@ -90,9 +90,10 @@
     - params:
         - query
     - return
-        - `skylark_cms.categories'
-        - `skylark_cms.pages'
-        - `skylark_cms.query'
+        - `skylark_cms.categories`
+        - `skylark_cms.pages`
+        - `skylark_cms.query`
+
 # 消息的异常
 
 ## 404/403
