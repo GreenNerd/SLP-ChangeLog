@@ -104,3 +104,24 @@
 
 ### 例子：
 - `skylark_message_exception.current_user.name`
+
+
+# 自定义 filters
+
+### images
+
+#### crop images
+
+**用法：**
+- `{{ 'a.png' | crop_image: 'main' }}` #=> `a.png?imageView/2/w/360/q/85`
+- 自定义尺寸 `{{ 'a.png' | crop_image: 'imageView/2/w/360' }}` #=> `a.png?imageView/2/w/360`
+
+**可选尺寸：**
+- main: `imageView/2/w/360/q/85`
+- cover: `imageMogr2/thumbnail/!640x320r/gravity/Center/crop/640x320`
+- logo: `imageView2/1/w/132/h/132/q/85`
+- welcome: `imageMogr2/thumbnail/!360x200r/gravity/Center/crop/360x200`
+- small_welcome: `imageMogr2/thumbnail/!50x50r/gravity/Center/crop/50x50`
+
+### HumanSize
+**用法：** `{{ 1222222222 | human_size }}` #=> `1.1 GB`
