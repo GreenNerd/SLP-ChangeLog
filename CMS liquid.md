@@ -56,6 +56,7 @@
 - identifier (`string`)
 - headmigurl (`string`)
 - openid (`string`)
+- from_wechat(`boolean`)
 
 ### Paginator
 - per_page(`integer`)*每页的数量*
