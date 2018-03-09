@@ -67,9 +67,14 @@
 - next_page_link(`string`)*下一页的地址*
 
 ### Search
-- categories(`category`)
-- pages(`page`)
-- query
+搜索范围：当前分类的所有子孙分类，自己和子孙分类的文章
+
+- categories (分类搜索结果)
+- category_paginator (分类分页)
+- pages (文章搜索结果)
+- page_paginator (文章分页)
+- query (搜索关键字)
+- type (搜索类型，可能值：all, category, page)
 
 ## Request
 
