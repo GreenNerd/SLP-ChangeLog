@@ -65,6 +65,16 @@
 - previous_page_link(`string`)*上一页的地址*
 - current_page_link(`string`)*当前页的地址*
 - next_page_link(`string`)*下一页的地址*
+- total_count*总个数*
+
+### All_pages_paginator
+作用范围：当前分类以及子分类的所有文章
+- all_pages_per_page(`integer`)*每页的数量*
+- all_pages_page(`integer`)*当前的页码数*
+- total_pages(`integer`)*总共的页码数*
+- previous_page_link(`string`)*上一页的地址*
+- current_page_link(`string`)*当前页的地址*
+- next_page_link(`string`)*下一页的地址*
 
 ### Search
 搜索范围：当前分类的所有子孙分类，自己和子孙分类的文章
